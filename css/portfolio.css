@@ -109,8 +109,6 @@ p {
 }
 
 
-
-
 .center {
 	font-family: Perpetua, Rockwell Extra Bold;
 	text-align: center;
@@ -216,5 +214,5 @@ img:hover {
 /* Footer element */
 footer {
 	padding: 2%;
-	background-color:white;
+    color: white;
 }
